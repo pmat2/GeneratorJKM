@@ -1,1 +1,4 @@
 # GeneratorJKM
+Technologie:
+- jfx
+- lombok
